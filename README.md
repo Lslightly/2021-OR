@@ -1,2 +1,7 @@
 # 2021-OR
-source code for Operations Research course
+This repository is created for storing source code for Operations Research(OR) course
+
+- [ ] linear programming
+- [ ] simplex algorithmn
+
+and more...
